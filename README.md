@@ -3,4 +3,4 @@ The idea behind this project is to start from random noise and to apply DCGAN to
 even exist.
 
 # Result
-![Uploading Fake_Faces.gif…]()
+![Fake_Faces](https://user-images.githubusercontent.com/60687531/92041095-3bf45600-ed95-11ea-99f9-6fffd78579ce.gif)
